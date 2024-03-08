@@ -1,0 +1,12 @@
+h1 {
+  position: relative;
+  color: white;
+  z-index: 2;
+  margin-bottom: 70vh;
+  text-align: center;
+  line-height: 50px;
+  font-size: 2em;
+  font-weight: 200;
+  font-family: Poppins;
+}
+
